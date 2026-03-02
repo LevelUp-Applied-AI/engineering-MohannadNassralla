@@ -28,3 +28,8 @@ source .venv/bin/activate   # Mac/Linux
 # or: source .venv/Scripts/activate  (Windows Git Bash)
 pip install -r requirements-prework.txt
 ```
+
+## How to run
+Set up the environment (activate venv, install dependencies)
+Run the code ( git clone https://github.com/LevelUp-Applied-AI/engineering-MohannadNassralla, engineering-MohannadNassralla)
+Confirm success (push the files in github)
