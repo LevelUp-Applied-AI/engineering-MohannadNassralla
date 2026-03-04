@@ -1,5 +1,5 @@
 - [ ] Tests added or updated
-- [ ] README updated if behavior changed
-- [ ] No debug code left in
+- [ ] Scope is this one thing
+- [ ] the README accurate
 - [ ] added pr-checklist.md file
 - [ ] added pull_request_template file
