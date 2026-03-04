@@ -1,5 +1,0 @@
-- [ ] Tests added or updated
-- [ ] README updated if behavior changed
-- [ ] No debug code left in
-- [ ] Scope is uncontrolled
-- [ ] Title is uninformative
